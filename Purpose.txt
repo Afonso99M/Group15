@@ -1,0 +1,29 @@
+Multiclass Classification Benchmarking: 
+
+Create a classification model:
+that can accurately predict the WCB’s final decision on what type of
+injury (Claim Injury Type) should be given to a claim. To do that, the
+WCB has provided labelled data with all claims assembled between
+2020 and 2022. You will need to develop a consistent model
+assessment strategy that will allow you to create and compare
+different candidate models to find the most generalizable one.
+
+1.Model Optimization: After selecting your best (or set of best) models,
+you are encouraged to explore ways to improve their performance (e.g.
+hyper-parameter tuning or pre-processing/feature selection
+adjustments). You should compare the optimized model with your
+previous models and discuss your findings.
+
+2.Additional Insights: This project segment is open-ended, meaning you
+can explore as many ideas as you desire (as long as you make them
+explicit and understandable). Here are some possible suggestions:
+
+3.Analyze and discuss the importance of the features for the different
+values of the target variable.
+
+a.Create an analytics interface that returns a prediction when new
+inputs are given.
+
+b.Create a model that predicts other variables ('WCB Decision' or
+'Agreement Reached') and check whether using these variables as
+features improves the performance of your models.
